@@ -79,7 +79,6 @@ sqlparse==0.4.2
 starlette==0.17.1
 transitions==0.8.11
 Twisted==22.2.0
-twisted-iocpsupport==1.0.2
 txaio==22.2.1
 typing_extensions==4.1.1
 tzdata==2022.1
